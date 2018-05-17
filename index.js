@@ -16,6 +16,4 @@ function divide(a, b){
 }
 
 function inc(number){
-  var number=233
-  return number++
 }
