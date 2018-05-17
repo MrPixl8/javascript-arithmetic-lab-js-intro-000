@@ -22,3 +22,7 @@ return number + 1
 function dec(number){
   return number - 1
 }
+
+function makeInt(number){
+  return 'number'
+}
