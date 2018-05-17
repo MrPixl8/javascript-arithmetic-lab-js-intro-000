@@ -23,8 +23,6 @@ function dec(number){
   return number - 1
 }
 
-
-
 function makeInt(number){
 
 }
