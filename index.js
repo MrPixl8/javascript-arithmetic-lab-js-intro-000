@@ -28,5 +28,5 @@ function makeInt(number){
 }
 
 function preseveDecimal(number){
-  return parseFloat(number)
+  return parseFloat('number')
 }
