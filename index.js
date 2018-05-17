@@ -16,4 +16,6 @@ function divide(a, b){
 }
 
 function inc(number){
+  var number= 524
+  return number++
 }
